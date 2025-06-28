@@ -1,0 +1,6 @@
+/* Light Theme */
+QWidget { background: #fafafa; color: #202124; font-family: "Segoe UI"; font-size: 10.5pt; }
+QHeaderView::section { background: #2979ff; color: white; font-weight: bold; padding: 4px; border: 1px solid #1c54b2; }
+QTableView { gridline-color: #d0d0d0; selection-background-color: #82b1ff; alternate-background-color: #f4f6ff; }
+QLineEdit { background: white; border: 1px solid #1c54b2; padding: 2px; }
+QToolBar { background: #e3f2fd; spacing: 6px; border: none; }

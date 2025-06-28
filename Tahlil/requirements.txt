@@ -1,0 +1,5 @@
+PyQt6>=6.6
+pandas>=2.0
+matplotlib>=3.8
+qt-material>=2.14
+openpyxl>=3.1
